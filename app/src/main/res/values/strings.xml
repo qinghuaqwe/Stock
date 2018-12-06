@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stock</string>
+    <string name="title_item_detail">Stock Detail</string>
+    <string name="dialog_title">Symbol</string>
+    <string name="dialog_message">Enter Symbol</string>
+    <string name="hint_message">Please enter a symbol</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="invalid_symbol">Invalid symbol</string>
+    <string name="no_symbol_message">No symbol in the list, Please click "+" button to add stock ticker!</string>
+    <string name="company">Company:</string>
+    <string name="current_price">Current Price:</string>
+    <string name="opening_price">Opening Price:</string>
+    <string name="two_Pane">TwoPane Mode:</string>
+</resources>
